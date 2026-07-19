@@ -73,7 +73,7 @@ st.markdown("""
 # 2. SIDEBAR PANEL (Configuration & Data Engine)
 # ==========================================
 with st.sidebar:
-    st.image("https://algatesinsurance.in/wp-content/uploads/2025/04/Understanding-Domiciliary-Hospitalisation-in-Health-Insurance-1024x1024.png", width=200)
+    st.image("https://i.pinimg.com/474x/06/77/75/067775a1feaf127235bebcdca87e0247.jpg", width=200)
     st.title("Control Panel")
     st.markdown("---")
 
